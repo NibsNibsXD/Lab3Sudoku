@@ -9,4 +9,21 @@
  */
 public class Sudoku {
     
+    public void startGame(){
+    
+    }
+    
+    
+    public void displayBoard(){
+    
+    
+    }
+    
+    public boolean resuelto(){
+    
+        return true;
+    
+    }
+    
+    
 }
